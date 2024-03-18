@@ -1,4 +1,4 @@
-public class halloeRectangle {
+public class hallowRectangle {
     public static void hallow_rectangle(int totalRows, int totalCols) {
 
         // outer Loop
