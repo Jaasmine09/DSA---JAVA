@@ -1,5 +1,5 @@
 import java.util.*;
-public class tyoeconversion {
+public class typeconversion {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
         // int a = input.nextFloat();
