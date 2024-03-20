@@ -16,6 +16,7 @@ class solidRhombus {
             }
             System.out.println();
         }
+        // System.out.print();
     }
 
     public static void main(String args[]) {

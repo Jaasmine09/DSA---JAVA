@@ -21,4 +21,5 @@ public class linearSearch {
             System.out.print("index fount at:" + index);
         }
     } 
+    // System.out.print();
 }
